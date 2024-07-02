@@ -15,7 +15,7 @@ Just a 2D space shooter from a neighboring parallel world. It was written using 
  - exit - Esc
 
 ## Gameplay
-[![Cosmic Heat](https://img.youtube.com/vi/ghcX5IXoPLY/0.jpg)](https://www.youtube.com/watch?v=ghcX5IXoPLY "Cosmic Heat")
+[![Cosmic Heat](https://img.youtube.com/vi/ghcX5IXoPLY/0.jpg)]
 
 ## Images
 ![alt text](images/l.png "Cosmic Heat")
